@@ -41,36 +41,43 @@
       "size" : "60x60"
     },
     {
+      "filename" : "Screen Shot 2021-09-29 at 9.40.19 AM-20.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "20x20"
     },
     {
+      "filename" : "Screen Shot 2021-09-29 at 9.40.19 AM-20@2x.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "20x20"
     },
     {
+      "filename" : "Screen Shot 2021-09-29 at 9.40.19 AM-29.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "29x29"
     },
     {
+      "filename" : "Screen Shot 2021-09-29 at 9.40.19 AM-29@2x.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
+      "filename" : "Screen Shot 2021-09-29 at 9.40.19 AM-40.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "40x40"
     },
     {
+      "filename" : "Screen Shot 2021-09-29 at 9.40.19 AM-40@2x.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "40x40"
     },
     {
+      "filename" : "Screen Shot 2021-09-29 at 9.40.19 AM-76.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "76x76"
@@ -81,6 +88,7 @@
       "size" : "76x76"
     },
     {
+      "filename" : "Screen Shot 2021-09-29 at 9.40.19 AM-83.5@2x.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "83.5x83.5"
